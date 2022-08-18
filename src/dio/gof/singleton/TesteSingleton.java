@@ -1,6 +1,6 @@
 package dio.gof.singleton;
 
-public class Teste {
+public class TesteSingleton {
     public static void main(String[] args) {
         //testes relacionados ao padrao de projeto Singleton
         SingletonLazy lazy = SingletonLazy.getInstancia();
